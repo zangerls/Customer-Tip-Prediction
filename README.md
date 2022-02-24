@@ -1,2 +1,3 @@
 # Predicting customer's tips
-Using three different regression models in order to predict a person's tip by their total bill, sex, daytime, etc.
+
+Using linear regression, knn regression and random forest regression in order to try and predict a customer's tipping amount based on their total bill, sex, whether they smoke and a few other features.
